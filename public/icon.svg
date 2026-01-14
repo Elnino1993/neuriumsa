@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h180v180h-180z"/>
+		</clipPath>
+		<image  width="39" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAoCAMAAABKKxPSAAAAAXNSR0IB2cksfwAAAIpQTFRFAwYJHUMkOYRATLFUVshfV8tgFC0aQptKVMVdMnQ3JlgqK2UvUb1ZQJVHLGYwUr9aU8JbGTwcBg0GMXI2DyMQT7hYDiAOTLBTJ1srVsheCRQKBw8HCBIIQ51KIk4lJlcpHkYhVMRdJFMnOoc/M3U4FC0VKWAtFzQZChUKQZdIVcdeJVQoSatRDBwNrIckXQAAANpJREFUeJzN1E0LgkAQBuCZ1VQopAi6dOhS9P9/U0RRImJUZLqTwmZfur4dgua4PjjD7swwYcE/clzFyxep4s15rBv/oiR7duy0pZdCHs7T7VWKymrnNyc1qS93x66FEeVinHKsrtDGOcrqdGGca79ryY3r1UdOddll3UHh8qk+vX64fvkknBKFojjpcC7HkCvfMAJcUFa4BdyADyGn3W54lHyUAG41i8ccAc6f7ic7wNE8PRPiFryBHC15bXfN8a1D+wrtU7Tv0TlC5xKec3RvwHuI0L3WHf/ubu5/aSmcNz0HAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: none } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path fill-rule="evenodd" class="s0" d="m37 0h106c20.43 0 37 16.57 37 37v106c0 20.43-16.57 37-37 37h-106c-20.43 0-37-16.57-37-37v-106c0-20.43 16.57-37 37-37z"/>
+			<use id="Слой 1" href="#img1" x="70" y="70"/>
+			<g>
+				<path class="s0" d="m9608.4 5035h3371.64c1367.14 0 2475.42 1108.29 2475.42 2475.44v3215.44h-1384.82v-3215.44c0-32.94-1.33-65.65-3.8-98.06l-3371.64 3312.93q17.09 0.57 34.2 0.57h3341.24v1307.96h-3341.24c-1367.11 0-2505.84-1119.19-2505.84-2486.34v-3206.88h1384.84v3206.88c0 61.75 4.75 122.74 14.06 182.59l3445.74-3385.84c-28.97-2.4-58.42-3.63-88.16-3.63h-3371.64z"/>
+				<path class="s0" d="m6202.8 11792.92l-4872.8-5452.89h1960.37l2860.83 3201.39v-3201.39h1461.77v4914.62c0 741.76-915.92 1091.36-1410.17 538.27z"/>
+			</g>
+		</g>
+	</g>
+</svg>
